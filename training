@@ -1,0 +1,425 @@
+Siddharth
+
+
+Search Drive
+
+Drive
+.
+Folder Path
+My Drive
+#CV-Project
+
+NEW 
+Folders and views
+My Drive
+Shared with me
+Google Photos
+Recent
+Starred
+Trash
+7 GB used
+Name
+Owner
+Last modified
+#Q_A
+me
+Dec 1, 2015
+Accuracy
+me
+Nov 20, 2015
+C#
+me
+Nov 20, 2015
+Feature
+me
+Nov 20, 2015
+JSON
+me
+Nov 20, 2015
+Lua
+me
+Nov 20, 2015
+Python
+me
+Nov 20, 2015
+
+CodeManual.xlsx
+me
+Nov 20, 2015
+All selections cleared 
+
+
+Loading doc Query Stream ....
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+loading Training doc query stream done : 00:00:00.0166278
+Source Neural Network Structure Neural Layer 0: 5330
+Neural Layer 1: 1000
+Neural Layer 2: 300
+layer 0 to layer 1: AF Type : Tanh; hid bias : 0; weight sigma : 0.1; Neural Type : Fully_Connected; Window Size : 1;
+layer 1 to layer 2: AF Type : Tanh; hid bias : 0; weight sigma : 0.1; Neural Type : Fully_Connected; Window Size : 1;
+
+Target Neural Network Structure Neural Layer 0: 1724
+Neural Layer 1: 1000
+Neural Layer 2: 300
+layer 0 to layer 1: AF Type : Tanh; hid bias : 0; weight sigma : 0.1; Neural Type : Fully_Connected; Window Size : 1;
+layer 1 to layer 2: AF Type : Tanh; hid bias : 0; weight sigma : 0.1; Neural Type : Fully_Connected; Window Size : 1;
+
+Feature Num Query 5330
+Feature Num Doc 1724
+Sharing Model False
+Mirror Init Model False
+Math Lib cpu
+CPU Math thread num 128
+Starting DNN Learning!
+Initialization (Iter 0)
+Saving models ...
+total query sample number : 214477
+total doc sample number : 214477
+Training batches: 210
+Learning Objective : MMI
+Start Training
+-----------------------------------------------------------
+ITER : 1
+Training Loss : 602772.8
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:32:48.6963873
+-----------------------------------------------------------
+ITER : 2
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 500153.1
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:32:33.1874102
+-----------------------------------------------------------
+ITER : 3
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 478760.9
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:44.4970955
+-----------------------------------------------------------
+ITER : 4
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 466542.6
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:44.6863956
+-----------------------------------------------------------
+ITER : 5
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 457903
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:15.0770699
+-----------------------------------------------------------
+ITER : 6
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 451507.7
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:41.7912494
+-----------------------------------------------------------
+ITER : 7
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 446420.5
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:20.2973610
+-----------------------------------------------------------
+ITER : 8
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 441987.6
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:06.5077973
+-----------------------------------------------------------
+ITER : 9
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 438698.8
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:24.3045792
+-----------------------------------------------------------
+ITER : 10
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 435534.9
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:15.9229369
+-----------------------------------------------------------
+ITER : 11
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 432751.3
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:06.0523211
+-----------------------------------------------------------
+ITER : 12
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 430439.3
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:02.8647416
+-----------------------------------------------------------
+ITER : 13
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 428489.8
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:04.6376979
+-----------------------------------------------------------
+ITER : 14
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 426498.8
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:17.5001586
+-----------------------------------------------------------
+ITER : 15
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 424747.5
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:48.0976567
+-----------------------------------------------------------
+ITER : 16
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 423484.2
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:47.1262655
+-----------------------------------------------------------
+ITER : 17
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 421743.5
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:08.3033082
+-----------------------------------------------------------
+ITER : 18
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 420578.7
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:12.9614656
+-----------------------------------------------------------
+ITER : 19
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 419395.8
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:06.8493735
+-----------------------------------------------------------
+ITER : 20
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 417911.5
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:10.6212940
+-----------------------------------------------------------
+ITER : 21
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 416873.3
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:58.5839300
+-----------------------------------------------------------
+ITER : 22
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 416187.9
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:59.5443801
+-----------------------------------------------------------
+ITER : 23
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 414864.1
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:56.8981786
+-----------------------------------------------------------
+ITER : 24
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 414481.1
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:19.2424531
+-----------------------------------------------------------
+ITER : 25
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 413569.7
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:07.7505453
+-----------------------------------------------------------
+ITER : 26
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 412579.8
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:55.4041447
+-----------------------------------------------------------
+ITER : 27
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 412023.7
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:32:25.7385264
+-----------------------------------------------------------
+ITER : 28
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 411269.7
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:33:04.7592991
+-----------------------------------------------------------
+ITER : 29
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 410267.6
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:29.4876944
+-----------------------------------------------------------
+ITER : 30
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 409904.5
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:40.0411867
+-----------------------------------------------------------
+ITER : 31
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 409229
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:30:24.5421050
+-----------------------------------------------------------
+ITER : 32
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 408593.6
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:28.1102343
+-----------------------------------------------------------
+ITER : 33
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 408178
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:25.4081943
+-----------------------------------------------------------
+ITER : 34
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 407421.5
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:33.1530514
+-----------------------------------------------------------
+ITER : 35
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 407256.5
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:17.4106640
+-----------------------------------------------------------
+ITER : 36
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 406690.1
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:31:17.1582637
+-----------------------------------------------------------
+ITER : 37
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 406432.6
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:33:53.3750855
+-----------------------------------------------------------
+ITER : 38
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 405731.6
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:32:20.5100378
+-----------------------------------------------------------
+ITER : 39
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 405386.4
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:32:25.6485955
+-----------------------------------------------------------
+ITER : 40
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 404774
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:32:41.0365863
+-----------------------------------------------------------
+ITER : 41
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 404370.1
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:32:24.3309280
+-----------------------------------------------------------
+ITER : 42
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 404108.3
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:32:52.9773644
+-----------------------------------------------------------
+ITER : 43
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 403789
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:20.7204479
+-----------------------------------------------------------
+ITER : 44
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 403503.8
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:28:07.6656906
+-----------------------------------------------------------
+ITER : 45
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 403227.5
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:00.6759743
+-----------------------------------------------------------
+ITER : 46
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 402814.1
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:28:51.2104312
+-----------------------------------------------------------
+ITER : 47
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 402346
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:28:33.5318028
+-----------------------------------------------------------
+ITER : 48
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 401945.8
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:27.8531440
+-----------------------------------------------------------
+ITER : 49
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
+Training Loss : 402085.3
+Learning Rate : 0.02
+Saving models ...
+Training Runing Time : 01:29:39.6257284
+-----------------------------------------------------------
+ITER : 50
+Loading pair training data : train.ques.src.fea.full.bin and train.ans.src.fea.full.bin
